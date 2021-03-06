@@ -1,7 +1,0 @@
-Assignment IV: Remote Repo
-1. Created new repo on GitHub from my home page and clicked on "new" button and named basic_repo. 
-2. Created local repository with mkdir basic_repo then git init. 
-3. Used touch command to add index.html, style.css and script.js
-4. To commit and add to GitHub used git commit -m and git remote add origin http//basic_repo. 
-5. Made changes to a file and used git add ., git commit -m, git push origin master. 
-6. On GitHub I went to my homepage, click on the basic_repo and clicked on a file within to review the changes I made. 
